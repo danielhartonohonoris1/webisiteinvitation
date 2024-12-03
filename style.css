@@ -202,11 +202,6 @@ body {
     font-size: 65%;
   }
 
-  .simply-countdown > .simply-section {
-    padding: 60px;
-    margin: 5px;
-  }
-
   .mynavbar .nav-link {
     font-size: 2rem;
     text-align: center;
@@ -226,11 +221,6 @@ body {
 @media (max-width: 576px) {
   html {
     font-size: 60%;
-  }
-
-  .simply-countdown > .simply-section {
-    padding: 45px;
-    margin: 3px;
   }
 
   .timeline li .timeline-image {
